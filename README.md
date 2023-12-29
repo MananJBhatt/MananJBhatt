@@ -40,4 +40,5 @@ src="https://img.shields.io/github/followers/mananjbhatt?logo=github&style=for-t
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/mananjbhatt/TodoApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mananjbhatt&repo=TodoApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-![Manan Bhatt' Graph] (https://github-readme-activity-graph.vercel.app/graph?username=mananjbhatt)
+
+![Manan Bhatt's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mananjbhatt&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
