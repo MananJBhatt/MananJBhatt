@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manan Bhatt
 ===================================================================================================================================
 
@@ -47,3 +50,7 @@ src="https://img.shields.io/github/followers/mananjbhatt?logo=github&style=for-t
 
 
 ![Manan Bhatt's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mananjbhatt&custom_title=Manan%20Bhatt's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
